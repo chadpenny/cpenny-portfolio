@@ -15,7 +15,6 @@ To be completed :)
 # Assignment3&4: [Critique by Design](link.md)
 To be completed :)
 # Final Project
-To be completed
 - [Part I](Part_I.md)
 - [Part II](Part_II.md)
 - [Part III](Part_III.md)
