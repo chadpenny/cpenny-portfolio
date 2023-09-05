@@ -7,7 +7,7 @@ Hello, I am part of the Army MISM-BIDA Cohort. I am in my third semester at Hein
 ![shark](shark.png)
 
 # What I hope to learn
-Visualization in general is one of my weaknesses. I had a lot of practice with it in my internship and improved, but I still have a long way to go and I hope this class will get me there!
+Visualization in general is one of my weaknesses. I had a lot of practice with it in my internship and improved, but I still have a long way to go and I hope this class will get me there! I look forward to improving Tableau skills and learning other visualization techniques!
 
 # Portfolio 
 This is where I will put the new things I do. 
