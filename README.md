@@ -11,5 +11,10 @@ Visualization in general is one of my weaknesses. I had a lot of practice with i
 This is where I will put the new things I do. 
 
 # Assignment: [Visualizing Overnight Debt](link.md)
-
+To be completed :)
 # Assignment3&4: [Critique by Design](link.md)
+To be completed :)
+# Final Project
+[Part I] (link.md)
+[Part II](link.md)
+[Part III](link.md)
