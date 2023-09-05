@@ -3,6 +3,7 @@ Personal Portfolio for CMU Class 94870 Telling Stories with Data
 
 # About Me
 Hello, I am part of the Army MISM-BIDA Cohort. I am in my third semester at Heinz. I have a dog named Shark who I love very much. Below is a photo of my beloved Shark on the North Shore of Oahu near Kaena Point. 
+
 ![shark](shark.png)
 
 # What I hope to learn
