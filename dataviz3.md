@@ -5,3 +5,6 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/14967934"></div>
 <script src="https://public.flourish.studio/resources/embed.js"></script>
 
+## Part 3
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/14968168"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
