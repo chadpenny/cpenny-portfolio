@@ -12,7 +12,7 @@ Visualization in general is one of my weaknesses. In my internship, I did a lot 
 # Portfolio 
 This is where I will put the new things I do. 
 
-# Assignment: [Visualizing Overnight Debt](link.md)
+# Assignment: [Visualizing Overnight Debt](dataviz3.md)
 To be completed :)
 # Assignment3&4: [Critique by Design](link.md)
 To be completed :)
