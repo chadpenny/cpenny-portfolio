@@ -10,7 +10,7 @@ Hello, I am part of the Army MISM-BIDA Cohort. I am in my third semester at Hein
 Visualization in general is one of my weaknesses. In my internship, I did a lot of data visualization in Tableau, including overlaying specific seats on a map of Acrisure Stadium and comparing several different revenue streams. I had a lot of practice with it in my internship and improved, but I still have a long way to go and I hope this class will get me there! I look forward to improving Tableau skills and learning other visualization techniques! 
 
 # Portfolio 
-This is where I will put the new things I do. 
+This is where I will put the new things I do.  
 
 # Assignment: [Visualizing Overnight Debt](dataviz3.md)
 To be completed :)
