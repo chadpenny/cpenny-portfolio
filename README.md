@@ -12,6 +12,7 @@ Visualization in general is one of my weaknesses. In my internship, I did a lot 
 # Portfolio 
 This is where I will put the new things I do.  
 Here is a tableau viz, what do you think?
+[Tableau](tableau.md)
 
 
 # Assignment: [Visualizing Overnight Debt](dataviz3.md)
