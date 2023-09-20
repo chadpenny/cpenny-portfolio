@@ -18,6 +18,7 @@ Here is a tableau viz, what do you think?
 # Assignment: [Visualizing Overnight Debt](dataviz3.md)
 
 # Assignment3&4: [Critique by Design](assignment3_4.md)
+Click the link above to check it out!
 
 # Final Project
 - [Part I](Part_I.md)
