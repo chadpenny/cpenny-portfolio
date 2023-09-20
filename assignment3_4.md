@@ -1,3 +1,5 @@
+# <center><u>Assignment 3 and 4</u></center>
+
 ## Step One: Original Visualization
 
 ![image](https://github.com/chadpenny/cpenny-portfolio/assets/123605156/9ae8263f-562d-4534-b24d-00685ea33a88)
@@ -15,27 +17,27 @@ Initially, I planned on keeping the concept of using a map and use one or two ma
 ## Step Four: Feedback 
 
 ### Feedback 1 (27 year old, male, graduate student):
-- Can you tell me what you think this is?
+<u>- Can you tell me what you think this is?</u>
 This looks like a visualization to show how the world population is projected to change over the next 27 years for the largest countries/ continents in the world
-- Can you describe to me what this is telling you?
+<u>- Can you describe to me what this is telling you?</u>
 This visualization seems to show that India, china, and Africa are likely going to increase in average age and population, while others will remain more steady. 
-- Is there anything you find surprising or confusing?
+<u>- Is there anything you find surprising or confusing?</u>
 I find it surprising/ confusing that the entire continent of Africa is clustered with China/ India. Clustering them together may be misleading because the countries in Africa are not necessarily collaborative the way countries in the EU are. 
-- Who do you think is the intended audience for this?
+<u>- Who do you think is the intended audience for this?</u>
 This is likely intended for people reading up on human geography topics such as population growth and average age, as it relates to the demographic transition within those countries. For example high population and age is concerning for gross output, while low population and age could set the stage for large economic output over the coming years. 
-- Is there anything you would change or do differently?
+<u>- Is there anything you would change or do differently?</u>
 I would add more countries, but not so many that it gets confusing. Also find a way to highlight the change from one graph to another. Maybe a dynamic visualization that shows the bubbles grow and move over time, or a way to compare them side by side instead of trying to estimate where and how big it was in one graph vs. where and how big it is in the other.
 
 ### Feedback 2 (26 year old, male, graduate student):
-Can you tell me what you think this is?
--The charts depict world populations for major countries for the years 2023 and 2050. 
-Can you describe to me what this is telling you?
--The charts are likely geared toward depicting the changes between the current population and predicted populations for major countries in the world with larger populations. The charts also depict the average age of each countries' population, so the charts are ultimately showing changes in predicted population size and average age for each major country.
--Is there anything you find surprising or confusing? 
+<u> - Can you tell me what you think this is?</u>
+The charts depict world populations for major countries for the years 2023 and 2050. 
+<u>Can you describe to me what this is telling you?</u>
+The charts are likely geared toward depicting the changes between the current population and predicted populations for major countries in the world with larger populations. The charts also depict the average age of each countries' population, so the charts are ultimately showing changes in predicted population size and average age for each major country.
+<u> - Is there anything you find surprising or confusing? </u>
 Nothing is terribly surprising about the charts but the use of color is slightly confusing. It is unclear if the different colors mean anything other than simply differentiating between countries, which if it doesn't, the color is redundant. 
--Who do you think is the intended audience for this? 
+<u> - Who do you think is the intended audience for this? </u>
 The intended audience for this is likely somewhat generic, as the data itself is relatively generic in its scope/focus. But I would guess the primary audience is policy makers or those in the political/government sector trying to understand how population sizes and ages affect country actions. 
--Is there anything you would change or do differently?
+<u> - Is there anything you would change or do differently?</u>
 I would include more detailed scales and perhaps a key/legend for the use of color.
 
 Using this feedback, I created my first initial digital design, incorporating more countries, adding a dynamic component, and I added the data from 1990 to tell the whole story of progression. 
