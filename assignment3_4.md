@@ -50,13 +50,13 @@ The intended audience for this is likely somewhat generic, as the data itself is
 I would include more detailed scales and perhaps a key/legend for the use of color.
 
 
-Using this feedback, I created my first initial digital design, incorporating more countries, adding a dynamic component, and I added the data from 1990 to tell the whole story of progression. 
+Using this feedback, I created my first initial digital design, incorporating more countries, adding a dynamic component, and I added the data from 1990 to tell the whole story of progression. <br>
 Additional Feedback:
-After receiving feedback and digitally creating the first prototype of my new graph, classmates and the same person from feedback 1 gave me additional feedback which I incorporated:
-1) Color coordinate by continents rather than country.
+After receiving feedback and digitally creating the first prototype of my new graph, classmates and the same person from feedback 1 gave me additional feedback which I incorporated: <br>
+1) Color coordinate by continents rather than country.<br>
 2) My graph was comparing mostly countries and then included the whole continent of Africa. While I know this is not an apples to apples comparison, I wanted to tell the story of Africa as a whole in the future. To help fix this issue,
-   I added the other countries (with the exception of Asia just because the continent itself stretched the x-axis so significantly), and I added the most populuated countries of Africa to the graph.
-3) I somehow shared my prototype without even realizing I left the x-axis on a logarithmic scale per the default configuration. I changed the axis to linear and set the min/max of both axes to the same values for all three graphs.
+   I added the other countries (with the exception of Asia just because the continent itself stretched the x-axis so significantly), and I added the most populuated countries of Africa to the graph.<br>
+3) I somehow shared my prototype without even realizing I left the x-axis on a logarithmic scale per the default configuration. I changed the axis to linear and set the min/max of both axes to the same values for all three graphs.<br>
 
 ## Step 5: Final Solution
 # <center> <u>An Aging World</u></center>
