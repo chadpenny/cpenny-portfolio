@@ -7,11 +7,11 @@ https://www.nytimes.com/2023/09/14/learning/whats-going-on-in-this-graph-sept-20
 
 ## Step Two: Critique 
 I chose this data visualization because at first glance, it's confusing to tell what story is being told. The graph is engaging, and contains a lot of useful information, but I think the large dots everywhere and the use of three different maps makes it difficult to digest. This visualization contains the information to tell a good story and I sought to 
-take that information and change the way it is portrayed. The data I used to recreate the visualization is directly from U.N. World Population Prospects 2022.
+take that information and change the way it is portrayed. Additionally, the graph had an odd way of classifying populations by age, with different criteria that determined older/younger populations and no clarification about what determined all the shades of color in between. I found this graph to be engaging and useful, but not complete or perceptible. The data I used to recreate the visualization is directly from U.N. World Population Prospects 2022.
 
 
 ## Step Three: Original Design 
-Initially, I planned on keeping the concept of using a map and use one or two maps to recreate the visualization. However, I found that using a map limited me how I could portray the data and I would have several more options if I didn't stick to the map. After exploring some visualization options, I decided to test out a bubble chart. In my first design, I discarded the data from 1990 and just used 2023 and 2050. I did this because I wanted to emphasize now and the future, with the story being the future. However, after I saw what it looked like and got feedback, I felt that it was missing a big part of the story of how we got there. My first initial sketch is below. 
+Initially, I planned on keeping the concept of using a map and use one or two maps to recreate the visualization. However, I found that using a map limited me how I could portray the data and I would have several more options if I didn't stick to the map. After exploring some visualization options, I decided to test out a bubble chart. In my first design, I discarded the data from 1990 and just used 2023 and 2050. I did this because I wanted to emphasize now and the future, with the story being the future. However, after I saw what it looked like and got feedback, I felt that it was missing a big part of the story of how we got there. My first initial sketch is below. The story that I wanted to tell was two-fold: the world is getting signficantly older and Africa is getting huge and staying young. 
 
 
 ## Step Four: Feedback 
