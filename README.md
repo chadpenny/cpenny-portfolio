@@ -19,7 +19,7 @@ Here is a tableau viz, what do you think?
 
 # Assignment3&4: [Critique by Design](assignment3_4.md)
 Click the link above to check it out!
-
+ 
 # Final Project
 - [Part I](finalProject_part1.md)
 - [Part II](Part_II.md)
