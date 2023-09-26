@@ -12,6 +12,7 @@
 Vitamin D, also known as the "sunshine vitamin," is a fat-soluble vitamin essential for various bodily functions. It plays a crucial role in calcium absorption, promoting strong and healthy bones. While the primary source of vitamin D is sunlight exposure, it can also be obtained from dietary sources and supplements, making it vital for overall health and preventing conditions like rickets and osteoporosis.
 
 ### Risks of Vitamin D Deficiency 
+(I plan on doing these as a series of graphs and including more conditions/diseases on each.)
 
 (Data Source: [Source](https://vitamindwiki.com/Chart+of+Vitamin+D+levels+vs+disease+-+Grassroots+Health+June+2013))
 (Individual Data sources from vitamindwiki reference include A. Cohort-based, B. Case-control, R. Randomized controlled trial, U. Ultraviolet B-based study
