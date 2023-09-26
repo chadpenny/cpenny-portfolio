@@ -21,6 +21,6 @@ Here is a tableau viz, what do you think?
 Click the link above to check it out!
 
 # Final Project
-- [Part I](Part_I.md)
+- [Part I](finalProject_part1.md)
 - [Part II](Part_II.md)
 - [Part III](Part_III.md)
