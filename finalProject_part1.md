@@ -1,7 +1,9 @@
 # No one should be deficient in Vitamin D. 
+The point of my project is to use the data to inform people that there is no reason to be deficient in Vitamin D. Vitamin D has a multitude of known and studied benefits, however deficiency is very common. Getting enough Vitamin D is an easy action everyone can take to contribute towards a healthy lifestyle. 
 
 ### Story Arc
 The story I want to tell begins with a brief introduction to Vitamin D for those unfamiliar with it. Next, it moves into the risks of a Vitamin D deficiency (and benefits of sufficient levels of Vitamin D). Here, the audience will feel slightly concerned about their Vitamin D levels. Next, the story moves into the prevalence of Vitamin D deficiencies worldwide and among U.S. Adults. From there, the story will present the additional risk due to the lack of sunshine in Pittsburgh relative to other cities. Finally, the story will end on a high note and alleviate concerns by highlighting how easy it is to get sufficient Vitamin D and why no one should be deficient in it. Vitamin D deficiency is a serious public health risk, it is extremely prevalent, and its so easy and beneficial to get sufficient Vitamin D. 
+
 ![Story Arc](story_arc.jpeg)
 #### 1) Intro To Vitamin D
 This part does not have any specific data visualizations, but will include highlighting key statistics, such as Vitamin D contributes to at least XX healthy bodily functions to include digestion, bone health, immune response, etc.
@@ -46,6 +48,21 @@ The point of this graph is to show that living in Pittsburgh puts people here at
 
 ### But it's so easy to get enough...
 
-#### 1) Sunlight "Under the right circumstances, 10 to 15 minutes of sun on the arms and legs a few times a week can generate nearly all the vitamin D we need"
-#### 2) Vitamin D Rich Foods: Fish, Dairy, Eggs
-#### 3) Supplement. Very affordable
+#### 1) Sunlight "Under the right circumstances, 10 to 15 minutes of sun on the arms and legs a few times a week can generate nearly all the vitamin D we need" Source: https://www.health.harvard.edu/staying-healthy/time-for-more-vitamin-d
+#### 2) Vitamin D Rich Foods: Fish, Dairy, Eggs (Here I need to rank foods by how much Vitamin D they have so they are better informed)
+#### 3) Supplement. Very affordable (Perhaps a screenshot of Vitamin D on Amazon or at the grocery store).
+
+
+### Data
+For Risks of Vitamin D Deficiencies/Benefits of Adequate Levels I will use a variety of sources including mostly scientific journals: (https://vitamindwiki.com/Chart+of+Vitamin+D+levels+vs+disease+-+Grassroots+Health+June+2013)). This chart is a consolation of several 
+studies on Vitamin D. I will need to cite each individual study. \n
+
+For prevalence of Vitamin D deficiencies in the United States I will use: https://www.sciencedirect.com/science/article/pii/S0271531710002599?via%3Dihub
+\n
+For prevalence of Vitamin D deficiencies in the world I will use: NCB Prevalence and correlates of vitamin D deficiency in US adults. International Osteoporosis Foundation: Vitamin D Status in Europe. China: Wolters-Kluwer journal Medicine Lips P. Worldwide status of vitamin D nutrition. I Steroid Biochem Mol Biol. 2010; 121:297-300. Holick MF. Vitamin D: importance in the prevention of cancers, type 1 diabetes, heart
+disease, and osteoporosis. Am J Clin Nutr. 2004; 79:362-71. These sources are consolidated on https://www.onmarket.com.au/about-us/blog/why-is-vitamin-d-so-important/.
+\n
+For Sunny Days in Pittsburgh, I will use https://www.sciencedirect.com/science/article/pii/S0002916522037674?via%3Dihub.
+\n
+At this point, I am still in the process of consolidating all of these data sources into an excel with multiple sheets so that it is easier to make the data visualizations.
+
