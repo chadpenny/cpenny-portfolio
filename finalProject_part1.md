@@ -59,7 +59,7 @@ The point of this graph is to show that living in Pittsburgh puts people here at
 #### 3) Supplement. Very affordable (Perhaps a screenshot of Vitamin D on Amazon or at the grocery store).
 
 ## Method and Medium
-I plan on using shorthand with visualizations from a variety of places such as flourish and tableau. 
+I plan on using shorthand with visualizations from a variety of places such as flourish and tableau. I plan on first finishing all of my visualizations in order of how they will be presented on Shorthand and then moving to shorthand and making them flow. 
 
 
 ### Data
