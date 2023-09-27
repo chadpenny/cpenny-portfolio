@@ -5,11 +5,12 @@ The point of my project is to use the data to inform people that there is no rea
 The story I want to tell begins with a brief introduction to Vitamin D for those unfamiliar with it. Next, it moves into the risks of a Vitamin D deficiency (and benefits of sufficient levels of Vitamin D). Here, the audience will feel slightly concerned about their Vitamin D levels. Next, the story moves into the prevalence of Vitamin D deficiencies worldwide and among U.S. Adults. From there, the story will present the additional risk due to the lack of sunshine in Pittsburgh relative to other cities. Finally, the story will end on a high note and alleviate concerns by highlighting how easy it is to get sufficient Vitamin D and why no one should be deficient in it. Vitamin D deficiency is a serious public health risk, it is extremely prevalent, and its so easy and beneficial to get sufficient Vitamin D. 
 
 ![Story Arc](story_arc.jpeg)
-#### 1) Intro To Vitamin D
-#### 2) Risks of Vitamin D Deficiency
-#### 3) Prevalence of Deficiency (Worldwide and U.S.)
-#### 4) Sunny days per year in Pittsburgh
-#### 5) Ease of Supplementation
+### Outline (each discussed in detail below)
+#### 1) Intro To Vitamin D - what is it
+#### 2) Risks of Vitamin D Deficiency - why do we need it, what bad happens if we don't have enough, what good happens when we get enough
+#### 3) Prevalence of Deficiency (Worldwide and U.S.) - deficiency is very prevalent!
+#### 4) Sunny days per year in Pittsburgh - Pittsburgh lacks sunshine
+#### 5) Ease of Supplementation - getting enough Vitamin D is easy!
 
 ### Intro to Vitamin D 
 Vitamin D, also known as the "sunshine vitamin," is a fat-soluble vitamin essential for various bodily functions. It plays a crucial role in calcium absorption, promoting strong and healthy bones. While the primary source of vitamin D is sunlight exposure, it can also be obtained from dietary sources and supplements, making it vital for overall health and preventing conditions osteoporosis and influenza.
@@ -56,6 +57,9 @@ The point of this graph is to show that living in Pittsburgh puts people here at
 #### 1) Sunlight "Under the right circumstances, 10 to 15 minutes of sun on the arms and legs a few times a week can generate nearly all the vitamin D we need" Source: https://www.health.harvard.edu/staying-healthy/time-for-more-vitamin-d
 #### 2) Vitamin D Rich Foods: Fish, Dairy, Eggs (Here I need to rank foods by how much Vitamin D they have so they are better informed)
 #### 3) Supplement. Very affordable (Perhaps a screenshot of Vitamin D on Amazon or at the grocery store).
+
+## Method and Medium
+I plan on using shorthand with visualizations from a variety of places such as flourish and tableau. 
 
 
 ### Data
