@@ -32,9 +32,10 @@ Pancreas. 2010 Jul 39(5):669-74; Mohr S, et al. Int J Cancer. 2006 Dec 1 119(11)
 
 ### Prevalence of Viamin D Deficiency 
 The point of this graph is to show the prevalence of Vitamin D deficiencies. While many other countries have signficantly higher levels than the United States, I want to make the point that 42% is still very high. I plan on including more countries that have less than the United States so I can center the United States on the X-axis and draw attention to it. On Shorthand, I may prelude this graph with a statistic such as "4 in 10 adults in the United States are Vitamin D deficient". 
-![Prevalence](prevalence.jpeg)
-After getting feedback on this next graph, I realized I will need to reconstruct this graph as well. One of my peers pointed out that it makes it look like causation, such as bodyweight causes low vitamin D or vice versa. That is not my intention of this graph, I simply want to point out that statistically certain populations are more at risk of deficiency, likely due to lifestyle. Again, this is correlation. A person will not be able to go from unhealthy to healthy overnight by taking Vitamin D, but getting sufficient Vitamin D is an easy step anyone can make to improve their health. 
 ![Deficiencies](deficiency.jpeg)
+\n
+After getting feedback on this next graph, I realized I will need to reconstruct this graph as well. One of my peers pointed out that it makes it look like causation, such as bodyweight causes low vitamin D or vice versa. That is not my intention of this graph, I simply want to point out that statistically certain populations are more at risk of deficiency, likely due to lifestyle. Again, this is correlation. A person will not be able to go from unhealthy to healthy overnight by taking Vitamin D, but getting sufficient Vitamin D is an easy step anyone can make to improve their health. 
+![Prevalence](prevalence.jpeg)
 [Source 1](https://www.sciencedirect.com/science/article/pii/S0271531710002599?via%3Dihub)
 [Source 2](https://www.onmarket.com.au/about-us/blog/why-is-vitamin-d-so-important/)
 [Source 3](https://www.frontiersin.org/articles/10.3389/fnut.2023.1070808/full#B24)
