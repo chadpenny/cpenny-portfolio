@@ -37,6 +37,7 @@ After getting feedback on this next graph, I realized I will need to reconstruct
 <br>
 ![Prevalence](prevalence.jpeg)
 <br>
+I am considering changing this last graph to a by latitude as is presented in Source 3 below. This way, I can do the graph on a world map and show where Pittsburgh is with a marker. 
 [Source 1](https://www.sciencedirect.com/science/article/pii/S0271531710002599?via%3Dihub)
 [Source 2](https://www.onmarket.com.au/about-us/blog/why-is-vitamin-d-so-important/)
 [Source 3](https://www.frontiersin.org/articles/10.3389/fnut.2023.1070808/full#B24)
