@@ -33,6 +33,7 @@ Pancreas. 2010 Jul 39(5):669-74; Mohr S, et al. Int J Cancer. 2006 Dec 1 119(11)
 ### Sunny days per year in Pittsburgh
 #### More than 90% of the vitamin D requirement for most people comes from casual exposure to sunlight 
 [Source 1](https://www.sciencedirect.com/science/article/pii/S0002916522037674?via%3Dihub)
+(**Plot not final version, need to fix labels, just for proof of concept**) 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/15153178"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### But it's so easy to get enough...
