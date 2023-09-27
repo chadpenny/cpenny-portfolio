@@ -1,19 +1,24 @@
 # No one should be deficient in Vitamin D. 
 
 ### Story Arc
-(Insert Photo)
+The story I want to tell begins with a brief introduction to Vitamin D for those unfamiliar with it. Next, it moves into the risks of a Vitamin D deficiency (and benefits of sufficient levels of Vitamin D). Here, the audience will feel slightly concerned about their Vitamin D levels. Next, the story moves into the prevalence of Vitamin D deficiencies worldwide and among U.S. Adults. From there, the story will present the additional risk due to the lack of sunshine in Pittsburgh relative to other cities. Finally, the story will end on a high note and alleviate concerns by highlighting how easy it is to get sufficient Vitamin D and why no one should be deficient in it. Vitamin D deficiency is a serious public health risk, it is extremely prevalent, and its so easy and beneficial to get sufficient Vitamin D. 
+![Story Arc](story_arc.jpeg)
 #### 1) Intro To Vitamin D
+This part does not have any specific data visualizations, but will include highlighting key statistics, such as Vitamin D contributes to at least XX healthy bodily functions to include digestion, bone health, immune response, etc.
 #### 2) Risks of Vitamin D Deficiency
 #### 3) Prevalence of Deficiency (Worldwide and U.S.)
 #### 4) Sunny days per year in Pittsburgh
 #### 5) Ease of Supplementation
 
 ### Intro to Vitamin D 
-Vitamin D, also known as the "sunshine vitamin," is a fat-soluble vitamin essential for various bodily functions. It plays a crucial role in calcium absorption, promoting strong and healthy bones. While the primary source of vitamin D is sunlight exposure, it can also be obtained from dietary sources and supplements, making it vital for overall health and preventing conditions like rickets and osteoporosis.
+Vitamin D, also known as the "sunshine vitamin," is a fat-soluble vitamin essential for various bodily functions. It plays a crucial role in calcium absorption, promoting strong and healthy bones. While the primary source of vitamin D is sunlight exposure, it can also be obtained from dietary sources and supplements, making it vital for overall health and preventing conditions osteoporosis and influenza.
+
+This part does not have any specific data visualizations, but will include highlighting key statistics, such as Vitamin D contributes to at least XX healthy bodily functions to include digestion, bone health, immune response, etc.
 
 ### Risks of Vitamin D Deficiency 
 (I plan on doing these as a series of graphs and including more conditions/diseases on each.)
-
+Here I decided to flip the traditional y-axis of the graphs to drive home that these levels are decreases of the risk of getting these diseases/conditions. After getting feedback from my peers,this was not abundantly clear to them. Additionally, the scales of Vitamin D levels I used is somewhat misleading since they are different thresholds. I still plan on doing a series of charts, but I will need to rework how these graphs are constructed. I may consolidate them into just two graphs, a graph showing the risks of being deficient, and a graph showing the benefits of having sufficient levels. I will also need to make it clear that these are not necessarily causation.
+![Risks](risks.jpeg)
 (Data Source: [Source](https://vitamindwiki.com/Chart+of+Vitamin+D+levels+vs+disease+-+Grassroots+Health+June+2013))
 (Individual Data sources from vitamindwiki reference include A. Cohort-based, B. Case-control, R. Randomized controlled trial, U. Ultraviolet B-based study
 Gorham E, et al. 2011 October 19. [Submitted for Publication]; Munger KL, et al. JAMA 2006 296:2832-8; Giovannucci E, et al. Arch Intern Med.
@@ -24,8 +29,10 @@ Gynecol, 2010 Oct:203(4):366.el-6; Cannell JJ, et al. Epidemiol Infect. 2006 Dec
 Pancreas. 2010 Jul 39(5):669-74; Mohr S, et al. Int J Cancer. 2006 Dec 1 119(11):2705-9; Mohr SB, et al. Prev Med. 2007 Nov 45(5):327-31;)
 
 ### Prevalence of Viamin D Deficiency 
-
-
+The point of this graph is to show the prevalence of Vitamin D deficiencies. While many other countries have signficantly higher levels than the United States, I want to make the point that 42% is still very high. I plan on including more countries that have less than the United States so I can center the United States on the X-axis and draw attention to it. On Shorthand, I may prelude this graph with a statistic such as "4 in 10 adults in the United States are Vitamin D deficient". 
+![Prevalence](prevalence.jpeg)
+After getting feedback on this next graph, I realized I will need to reconstruct this graph as well. One of my peers pointed out that it makes it look like causation, such as bodyweight causes low vitamin D or vice versa. That is not my intention of this graph, I simply want to point out that statistically certain populations are more at risk of deficiency, likely due to lifestyle. Again, this is correlation. A person will not be able to go from unhealthy to healthy overnight by taking Vitamin D, but getting sufficient Vitamin D is an easy step anyone can make to improve their health. 
+![Deficiencies](deficiency.jpeg)
 [Source 1](https://www.sciencedirect.com/science/article/pii/S0271531710002599?via%3Dihub)
 [Source 2](https://www.onmarket.com.au/about-us/blog/why-is-vitamin-d-so-important/)
 [Source 3](https://www.frontiersin.org/articles/10.3389/fnut.2023.1070808/full#B24)
@@ -34,6 +41,7 @@ Pancreas. 2010 Jul 39(5):669-74; Mohr S, et al. Int J Cancer. 2006 Dec 1 119(11)
 #### More than 90% of the vitamin D requirement for most people comes from casual exposure to sunlight 
 [Source 1](https://www.sciencedirect.com/science/article/pii/S0002916522037674?via%3Dihub)
 (**Plot not final version, need to fix labels, just for proof of concept**) 
+The point of this graph is to show that living in Pittsburgh puts people here at higher risk of Vitamin D deficiency just because of less sunlight. I also want to find a way to make the point that diet/supplementation are more important in the winter.
 <div class="flourish-embed flourish-scatter" data-src="visualisation/15153178"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### But it's so easy to get enough...
