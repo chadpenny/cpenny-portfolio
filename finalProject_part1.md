@@ -39,8 +39,6 @@ I am considering changing this last graph to a by latitude as is presented in So
 ![Prevalence](prevalence.jpeg)
 <br>
 After getting feedback on this next graph, I realized I will need to reconstruct this graph as well. One of my peers pointed out that it makes it look like causation, such as bodyweight causes low vitamin D or vice versa. That is not my intention of this graph, I simply want to point out that statistically certain populations are more at risk of deficiency, likely due to lifestyle. Again, this is correlation. A person will not be able to go from unhealthy to healthy overnight by taking Vitamin D, but getting sufficient Vitamin D is an easy step anyone can make to improve their health.
-<br>
-After getting feedback on this next graph, I realized I will need to reconstruct this graph as well. One of my peers pointed out that it makes it look like causation, such as bodyweight causes low vitamin D or vice versa. That is not my intention of this graph, I simply want to point out that statistically certain populations are more at risk of deficiency, likely due to lifestyle. Again, this is correlation. A person will not be able to go from unhealthy to healthy overnight by taking Vitamin D, but getting sufficient Vitamin D is an easy step anyone can make to improve their health.
 [Source 1](https://www.sciencedirect.com/science/article/pii/S0271531710002599?via%3Dihub)
 [Source 2](https://www.onmarket.com.au/about-us/blog/why-is-vitamin-d-so-important/)
 [Source 3](https://www.frontiersin.org/articles/10.3389/fnut.2023.1070808/full#B24)
