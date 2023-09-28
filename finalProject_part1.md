@@ -63,6 +63,7 @@ I plan on using shorthand with visualizations from a variety of places such as f
 
 
 ### Data
+![Excel Data](final_project_data.xlsx)
 For Risks of Vitamin D Deficiencies/Benefits of Adequate Levels I will use a variety of sources including mostly scientific journals: (https://vitamindwiki.com/Chart+of+Vitamin+D+levels+vs+disease+-+Grassroots+Health+June+2013)). This chart is a consolation of several 
 studies on Vitamin D. I will need to cite each individual study.
 <br>
@@ -73,5 +74,5 @@ disease, and osteoporosis. Am J Clin Nutr. 2004; 79:362-71. These sources are co
 <br>
 For Sunny Days in Pittsburgh, I will use https://www.sciencedirect.com/science/article/pii/S0002916522037674?via%3Dihub.
 <br>
-At this point, I am still in the process of consolidating all of these data sources into an excel with multiple sheets so that it is easier to make the data visualizations.
+At this point, I may end up using more data than is currently reflected in the excel sheet. 
 
