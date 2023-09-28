@@ -63,6 +63,7 @@ I plan on using shorthand with visualizations from a variety of places such as f
 
 
 ### Data
+The link below has a single excel with multiple sheets for the data I plan on using at this point. I will likely add to the risks/benefits data with one of the sources listed previously.
 ![Excel Data](final_project_data.xlsx)
 For Risks of Vitamin D Deficiencies/Benefits of Adequate Levels I will use a variety of sources including mostly scientific journals: (https://vitamindwiki.com/Chart+of+Vitamin+D+levels+vs+disease+-+Grassroots+Health+June+2013)). This chart is a consolation of several 
 studies on Vitamin D. I will need to cite each individual study.
