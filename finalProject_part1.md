@@ -33,7 +33,7 @@ Pancreas. 2010 Jul 39(5):669-74; Mohr S, et al. Int J Cancer. 2006 Dec 1 119(11)
 ### Prevalence of Viamin D Deficiency 
 The point of this graph is to show the prevalence of Vitamin D deficiencies. While many other countries have signficantly higher levels than the United States, I want to make the point that 42% is still very high. I plan on including more countries that have less than the United States so I can center the United States on the X-axis and draw attention to it. On Shorthand, I may prelude this graph with a statistic such as "4 in 10 adults in the United States are Vitamin D deficient". 
 <br>
-I am considering changing this last graph to a by latitude as is presented in Source 3 below. This way, I can do the graph on a world map and show where Pittsburgh is with a marker. 
+After discussion with peers, I plan on changing this last graph to a by latitude as is presented in Source 3 below. This way, I can do the graph on a world map and show where Pittsburgh is with a marker -- and the I can mark all the same countries as are listed already. 
 <br>
 ![Deficiencies](deficiency.jpeg)
 <br>
