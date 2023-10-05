@@ -23,5 +23,5 @@ Click the link above to check it out!
 # Final Project 
 - [Part I](finalProject_part1.md)
 - [Part II](finalproject_part2.md)
-  (Part III In progress)
+  <br>(Part III In progress)
 - [Part III](Part_III.md)
