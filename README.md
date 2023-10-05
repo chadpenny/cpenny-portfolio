@@ -20,8 +20,8 @@ Here is a tableau viz, what do you think?
 # Assignment3&4: [Critique by Design](assignment3_4.md)
 Click the link above to check it out!
  
-# Final Project (In Progress)
+# Final Project 
 - [Part I](finalProject_part1.md)
- 
-- [Part II](Part_II.md)
+- [Part II](finalproject_part2.md)
+  (Part III In progress)
 - [Part III](Part_III.md)
