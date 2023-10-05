@@ -1,7 +1,7 @@
 
 # Wireframes / storyboards
 The link to the short hand can be found here: 
-[Shorthand] [https://preview.shorthand.com/k4VBKS1gxmg6wUjT]
+[Shorthand] (https://preview.shorthand.com/k4VBKS1gxmg6wUjT)
 
 # User research 
 
