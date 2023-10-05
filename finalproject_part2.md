@@ -10,9 +10,10 @@ At first, my audience was really broad... It was initially just Americans, parti
 However, as the story progressed and I got feedback on Part I, I narrowed down the audience mostly to young people in Pittsburgh. This way I can incorporate Pittsburgh specific things
 that the younger population cares about and still tie it back to a more general issue that is faced worldwide (Vitamin D deficiency). It also helped that while Pittsburgh lacks sunshine, 
 there is an abundance of stuff to outdoors here and there was nice data on that. <br>
-So the audience is young people in Pittsburgh. 
+So the audience is young people in Pittsburgh. <br>
 
-
+Luckily, because I am a young person in Pittsburgh, I had plenty of people in this demographic to interview. I interviewed 2 males/ 1 female, and I did interview one person
+who is not from Pittsburgh, just to get an outsider perspective from someone who doesn't have any Pittsburgh bias in either direction. 
 
 ## Interview script
 Goals: <br>
