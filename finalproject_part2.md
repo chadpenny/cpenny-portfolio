@@ -79,5 +79,6 @@ Additionally, I need to change all of the images to html link's from Flourish. <
                                               
 
 Final thoughts... I was pleasantly surprised with the feedback I got. I definitely have to put more time in combing the fine details of the shorthand and making it more aesthetically pleasing.. Additionally, I only intend on reworking 3 graphs (first graph, scrollmation, and wordcloud).
-I have found that making the visualizations is what takes the longest, so I will be able to spend more time on the flow of the presentation and the fine details. 
+I have found that making the visualizations is what takes the longest, so I will be able to spend more time on the flow of the presentation and the fine details. <br>
+Additional Feedback from myself: I need to fix the short table with foods with Vitamin D. Coloring is terrible. I might just simply list foods high in Vitamin D. And I need to work on the spacers in the shorthand.
 
