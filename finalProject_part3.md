@@ -1,4 +1,4 @@
-| [home page](https://chadpenny.github.io/cpenny-portfolio/) |
+| [home page](https://chadpenny.github.io/cpenny-portfolio/) |<br>
 [Final Project Part I](finalProject_part1.md)<br>
 [Final Project Part 2](finalproject_part2.md)
 # Embrace the outdoors
