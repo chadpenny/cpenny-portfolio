@@ -23,7 +23,7 @@ Here is a tableau visualization from an inclass exercise.
 Critique by redesigning a NYT Visualization about the age of the world.
  
 # Final Project - Embrace the Outdoors! 
-(Embrace the Outdoors on Shorthand)[https://carnegiemellon.shorthandstories.com/embrace-the-outdoors/index.html]
+[Embrace the Outdoors on Shorthand](https://carnegiemellon.shorthandstories.com/embrace-the-outdoors/index.html)
 - [Part I](finalProject_part1.md)
 - [Part II](finalproject_part2.md)
 - [Part III](finalProject_part3.md)
