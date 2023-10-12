@@ -1,3 +1,5 @@
+[Final Project Part 2](finalproject_part2.md)
+[Final Project Part 3](finalProject_part3.md)
 # No one should be deficient in Vitamin D. 
 The point of my project is to use the data to inform people that there is no reason to be deficient in Vitamin D. Vitamin D has a multitude of known and studied benefits, however deficiency is very common. Getting enough Vitamin D is an easy action everyone can take to contribute towards a healthy lifestyle. 
 
