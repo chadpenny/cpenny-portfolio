@@ -9,16 +9,20 @@ Hello, I am part of the Army MISM-BIDA Cohort. I am in my third semester at Hein
 # What I hope to learn
 Visualization in general is one of my weaknesses. In my internship, I did a lot of data visualization in Tableau, including overlaying specific seats on a map of Acrisure Stadium and comparing several different revenue streams. I had a lot of practice with it in my internship and improved, but I still have a long way to go and I hope this class will get me there! I look forward to improving Tableau skills and learning other visualization techniques! 
 
+# What I learned
+I got really good with Flourish, very useful tool to build quick, effective data visualizations. I improved my Tableau skills significantly.
+And I learned how to make effective visualizations for a variety of audiences, and how to critique visualizations. This class definitely helped me improve significantly!
+
 # Portfolio 
-Here is a tableau viz from an inclass exercise. 
+Here is a tableau visualization from an inclass exercise. 
 [Tableau_Viz](tableau1.md)
 
 # Assignment 2: [Visualizing Overnight Debt](dataviz3.md)
 
 # Assignment3&4: [Critique by Design](assignment3_4.md)
-Click the link above to check it out!
+Critique by redesigning a NYT Visualization about the age of the world.
  
-# Final Project 
+# Final Project - Embrace the Outdoors! 
 - [Part I](finalProject_part1.md)
 - [Part II](finalproject_part2.md)
 - [Part III](finalProject_part3.md)
