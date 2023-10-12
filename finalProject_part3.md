@@ -50,7 +50,7 @@ References for all things Vitamin D:<br>
 [Vitamin D and diseases](https://vitamindwiki.com/Chart+of+Vitamin+D+levels+vs+disease+-+Grassroots+Health+June+2013)<br>
 [Sources](https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/)<br>
 
-Pittsburgh
+Pittsburgh<br>
 [Sunshine](https://www.currentresults.com/Weather/US/average-annual-sunshine-by-city.php)<br>
 [Things to Do](https://www.tpl.org/city/pittsburgh-pennsylvania)<br>
 
