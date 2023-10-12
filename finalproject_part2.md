@@ -1,4 +1,5 @@
-
+[Final Project Part 1](finalProject_part1.md)
+[Final Project Part 3](finalProject_part3.md)
 # Wireframes / storyboards
 The link to the short hand can be found here: 
 [Shorthand](https://preview.shorthand.com/k4VBKS1gxmg6wUjT)
