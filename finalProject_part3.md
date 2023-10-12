@@ -1,4 +1,6 @@
 | [home page](https://chadpenny.github.io/cpenny-portfolio/) |
+[Final Project Part I](finalProject_part1.md)
+[Final Project Part 2](finalproject_part2.md)
 # Embrace the outdoors
 The shorthand of the final story:
 
