@@ -13,7 +13,7 @@ Visualization in general is one of my weaknesses. In my internship, I did a lot 
 Here is a tableau viz from an inclass exercise. 
 [Tableau_Viz](tableau1.md)
 
-# Assignment: [Visualizing Overnight Debt](dataviz3.md)
+# Assignment 2: [Visualizing Overnight Debt](dataviz3.md)
 
 # Assignment3&4: [Critique by Design](assignment3_4.md)
 Click the link above to check it out!
