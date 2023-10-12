@@ -33,6 +33,27 @@ I did open up the audience to a larger population. Even if the answer to the "Ar
 
 ## References
 Included on Shorthand visualizations and paragraphs as footnotes. 
+Time Spent outside<br>
+[Time outside](https://www.nrpa.org/publications-research/park-pulse/time-spent-outside-reduces-stress)<br>
+[Nature for health](https://pubmed.ncbi.nlm.nih.gov/36520498/)<br>
+[Enjoying Nature Surveys](https://www.gov.uk/government/collections/monitor-of-engagement-with-the-natural-environment-survey-purpose-and-results)<br>
+[Nature increases mood and wellbeing](https://www.apa.org/monitor/2020/04/nurtured-nature)<br>
+
+References for all things Vitamin D:<br>
+[Prevalence of Decifiency](https://pubmed.ncbi.nlm.nih.gov/36263304/)<br>
+[80-90% of Sunlight](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7049620/)<br>
+[Functions of Vitamin D](https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/)<br>
+[Functions 2](https://www.mayoclinic.org/drugs-supplements-vitamin-d/art-20363792)<br>
+[Vitamin D General](2https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6032242/)<br>
+[More Vitamin D General](https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/)<br>
+[And More](https://www.health.harvard.edu/staying-healthy/time-for-more-vitamin-)<br>
+[Vitamin D and diseases](https://vitamindwiki.com/Chart+of+Vitamin+D+levels+vs+disease+-+Grassroots+Health+June+2013)<br>
+[Sources](https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/)<br>
+
+Pittsburgh
+[Sunshine](https://www.currentresults.com/Weather/US/average-annual-sunshine-by-city.php)<br>
+[Things to Do](https://www.tpl.org/city/pittsburgh-pennsylvania)<br>
+
 
 
 # Final thoughts
